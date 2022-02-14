@@ -13,6 +13,7 @@ a{
 	padding:25px;
 	text-align:center;
 	color: #A3A3A1;
+	border: 1px solid rgb(80,112,158);
 }
 a:hover {
 	color:rgb(80, 112, 158);
