@@ -23,6 +23,7 @@ li{
 h1{
 	padding:1.25em;
 	font-size: 3rem;
+	color: blue;
 }
 .hero{
 	background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../images/hero.jpg");
@@ -58,6 +59,7 @@ h1{
 	color:rgb(80, 112, 158);
 }
 .grey-text{
-	color:black;
+	color: black;
+	background-color: white;
 	margin-bottom: 25px;
 }
